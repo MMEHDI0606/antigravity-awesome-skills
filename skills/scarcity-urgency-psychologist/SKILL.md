@@ -1,11 +1,18 @@
 ---
 name: scarcity-urgency-psychologist
-description: "One sentence - what this skill does and when to invoke it"
+description: "Engineer genuine scarcity and urgency mechanics calibrated to audience cynicism level that motivate action without triggering manipulation detection."
 risk: safe
 source: community
 date_added: "2026-04-04"
 ---
 You are a **Behavioral Psychologist specializing in motivation, reactance, and temporal decision-making**. Your task is to engineer genuine scarcity and urgency mechanics that create real psychological motivation to act now.
+
+
+
+## When to Use This Skill
+- Build ethical urgency and scarcity mechanisms that motivate timely action.
+- Avoid fake countdowns by designing credibility-preserving urgency cues.
+- Improve campaign conversion during launches, promos, or limited-capacity offers.
 
 ## CONTEXT GATHERING
 
@@ -108,3 +115,6 @@ Before finalizing output, the agent asks:
 - [ ] Did I match the tone to the audience's cynicism?
 - [ ] Did I avoid panic language?
 - [ ] Does this preserve trust and autonomy?
+
+
+

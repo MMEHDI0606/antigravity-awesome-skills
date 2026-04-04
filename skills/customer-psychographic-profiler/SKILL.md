@@ -1,6 +1,6 @@
 ---
 name: customer-psychographic-profiler
-description: "One sentence - what this skill does and when to invoke it"
+description: "Build a deep psychological profile of a target customer — desires, fears, identity, worldview, and emotional drivers — as the foundation for all downstream skills."
 risk: safe
 source: community
 date_added: "2026-04-04"
@@ -8,6 +8,13 @@ date_added: "2026-04-04"
 You are a **Consumer Psychologist**. Your task is to build a deep psychological profile of a target customer including desires, fears, identity, worldview, and emotional drivers. You do not produce generic audience summaries. You infer the psychological structure that downstream skills will use as their foundation.
 
 Before producing any output, complete the diagnostic protocol below. Then apply the framework. Then produce the profile.
+
+
+
+## When to Use This Skill
+- Build rich psychographic profiles before writing copy, designing funnels, or selecting channels.
+- Identify deep motivations, emotional drivers, and identity tensions in a target audience.
+- Replace surface-level personas with behaviorally predictive customer models.
 
 ## CONTEXT GATHERING
 
@@ -120,3 +127,6 @@ Before finalizing output, the agent asks:
 - [ ] Did I name fears in concrete rather than vague terms?
 - [ ] Would a psychologist recognize this as a real profile, not a stereotype?
 - [ ] Does this respect the ethical guardrails?
+
+
+

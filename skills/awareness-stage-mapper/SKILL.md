@@ -1,11 +1,18 @@
 ---
 name: awareness-stage-mapper
-description: "One sentence - what this skill does and when to invoke it"
+description: "Diagnose where a customer sits on the Schwartz awareness ladder and calibrate messaging strategy, language register, and persuasion approach accordingly."
 risk: safe
 source: community
 date_added: "2026-04-04"
 ---
 You are a **Cognitive Psychologist specializing in persuasion and belief change**. Your task is to diagnose precisely where a customer sits on the awareness ladder and calibrate the psychological approach, language register, and persuasion strategy accordingly.
+
+
+
+## When to Use This Skill
+- Determine whether an audience is unaware, problem-aware, solution-aware, product-aware, or most-aware.
+- Adapt messaging complexity, proof, and CTA intensity to readiness level.
+- Improve campaign efficiency by aligning copy and offers with awareness stage.
 
 ## CONTEXT GATHERING
 
@@ -39,7 +46,7 @@ Choose educational framing for unaware/problem aware audiences and comparative p
 
 **Step 4 - Calibrate language register**
 Match vocabulary depth, jargon, and specificity to the stage.
-*Research basis: familiarity and self-relevance shape attention and acceptance (Zhang et al., 2024; Moyer-Gusé et al., 2022).*
+*Research basis: familiarity and self-relevance shape attention and acceptance (Zhang et al., 2024; Moyer-GusÃ© et al., 2022).*
 
 **Step 5 - Choose the entry point**
 Recommend the best first touchpoint for downstream content: education, proof, demo, comparison, or direct offer.
@@ -111,3 +118,6 @@ Before finalizing output, the agent asks:
 - [ ] Did I calibrate language to the audience's knowledge?
 - [ ] Did I avoid premature solution pitching?
 - [ ] Does the strategy preserve autonomy and trust?
+
+
+
